@@ -1,0 +1,10 @@
+* climc
+
+A Common Lisp Instant Messaging Client.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nlamirault/climc.git   |
+| commit  | 35a64a3  |
+| systems | climc |
+|---------+-------------------------------------------|
+
